@@ -34,7 +34,7 @@ I combine domain knowledge with technical skills to build projects that make an 
 
 ---
 
-## 📈 GitHub Stats while running this one is error
+## 📈 GitHub Stats 
 
 ![Giri Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=girikumar-ai&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=girikumar-ai&theme=radical&hide_border=true)
