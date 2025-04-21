@@ -35,10 +35,8 @@ I combine domain knowledge with technical skills to build projects that make an 
 ---
 
 ## 📈 GitHub Stats 
-
-![Giri Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=girikumar-ai&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=girikumar-ai&theme=radical&hide_border=true)
-
+![Giri Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=giri2021&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giri2021&theme=radical&hide_border=true)
 ---
 
 ## 📫 Connect With Me
